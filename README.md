@@ -12,14 +12,14 @@ lógico, ele o possibilita a gerar um script SQL para a IDE que você precisa, a
 pelo postgre.
 #### SQL Oracle Developer
 Depois da implementação do modelo lógico no postgre e das alterações necessárias no script, utilizei o SQL Oracle Developer para gerar os
-dados que foram inseridos na tabela. Depois de horas quebrando a cabeça consegui gerar os códigos utilizando o código da tabela
+dados que foram inseridos na tabela. Depois de horas quebrando a cabeça consegui desenvolver os códigos utilizando o código da tabela
 empregados postado pelo professor como base para fazer as outras.
 #### PostgreSQL
 Depois da inserção dos dados no Postgre, os últimos passos foram adicionar as foreign keys no script, porém, devido a alguns erros nos 
-dados emitidos pelo SQL Oracle Developer, alguns dados não estavam correspondendo a suas respectivas foreign keys, sendo necessário a corre
-ção de dado por dado manualmente.
+dados emitidos pelo SQL Oracle Developer, alguns dados não estavam correspondendo a suas respectivas foreign keys, sendo necessário a correção de 
+dado por dado manualmente.
 #### MariaDB
 Depois de finalizar o Postgre o MariaDB foi bem simples e rápido, sendo necessário apenas algumas alterações no código, por conta da diferença 
 entre as syntax do postgre e mariadb, porém, após finalizar o database no Terminal não consegui gerar o script. Tendo que gerar o script pelo MySQL
-e fazer suas alterações pelo DBeaver, utilziando o terminal para verificar a validade do código.
+e fazer suas alterações pelo DBeaver, utilizando o terminal para verificar a validade do código.
 

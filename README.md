@@ -7,7 +7,7 @@ Foi nos dado um modelo lógico ''human_resources'' com alguns erros propositalme
 a fim de os encontrarmos e corrigi-los. Os erros estavam relacionados com uma das cardinalidades entre as tabelas,
 todas as foreign keys que podiam ser nulas e uma primary key errada.
 #### SQL Power Architect
-Utilei o SQL Power Architect para a criação do modelo lógico correto. O SQL Power Architect além de permitir a criação do modelo
+Utilizei o SQL Power Architect para a criação do modelo lógico correto. O SQL Power Architect além de permitir a criação do modelo
 lógico, ele o possibilita a gerar um script SQL para a IDE que você precisa, assim gerando o script e fazendo as manuntenções do script
 pelo postgre.
 #### SQL Oracle Developer
